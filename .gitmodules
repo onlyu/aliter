@@ -1,6 +1,3 @@
-[submodule "lib/elixir"]
-	path = lib/elixir
-	url = git://github.com/josevalim/elixir.git
 [submodule "lib/erldis"]
 	path = lib/erldis
 	url = git://github.com/cstar/erldis.git
@@ -10,3 +7,6 @@
 [submodule "lib/erlang-redis"]
 	path = lib/erlang-redis
 	url = git://github.com/gar1t/erlang-redis.git
+[submodule "lib/elixir"]
+	path = lib/elixir
+	url = git://github.com/elixir-lang/elixir.git
